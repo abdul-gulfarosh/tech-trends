@@ -8,7 +8,7 @@ LABEL maintainer="Abdul Moeed Gulfarosh"
 # copy files from the host to the container filesystem. 
 # For example, all the files in the current directory
 # to the  `/app` directory in the container
-COPY . /app
+COPY techtrends/ /app
 #  defines the working directory within the container
 WORKDIR /app
 
