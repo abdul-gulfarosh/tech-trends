@@ -9,7 +9,7 @@
 
 
 ## Logs from the container running the TechTrends application
-#
+
 * Serving Flask app 'app' (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
