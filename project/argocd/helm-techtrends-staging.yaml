@@ -12,7 +12,7 @@ spec:
     helm:
       valueFiles:
         - values-staging.yaml
-    path: project/helm 
+    path: project/helm
     repoURL: https://github.com/abdul-gulfarosh/tech-trends
     targetRevision: HEAD
   # Sync policy
